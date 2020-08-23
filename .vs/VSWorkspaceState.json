@@ -1,4 +1,9 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\myFirstWebApp",
+    "\\myFirstWebApp\\images"
+  ],
+  "SelectedNode": "\\myFirstWebApp\\images",
   "PreviewInSolutionExplorer": false
 }
